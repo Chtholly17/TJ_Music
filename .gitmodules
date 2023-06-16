@@ -1,0 +1,6 @@
+[submodule "TJ_music_frontend"]
+	path = TJ_music_frontend
+	url = git@github.com:horizen-searcher/TJ_music_frontend.git
+[submodule "TJ_music_backend"]
+	path = TJ_music_backend
+	url = git@github.com:horizen-searcher/TJ_music_backend.git
