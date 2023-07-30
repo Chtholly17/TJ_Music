@@ -10,7 +10,7 @@ Group project for Software Engineering course, Tongji University.
   或者您也可以使用IDEA打开项目，并且按照如下步骤操作
   ![image](https://github.com/Chtholly17/TJ_Music/assets/82920537/3b17d0af-c6af-4bb7-bbae-66dbd6abd936)
 3. 之后，在执行上述命令后在`./Tj_music_work/target`中，可以看到打包好的项目包
-  在根目录执行以下命令，将包传到指定的服务器路径处
+    在根目录执行以下命令，将包传到指定的服务器路径处
   ```bash
   $ scp ./target/tj_music-0.0.1-SNAPSHOT.jar root@120.46.60.40:/root/TJ_music
   ```
@@ -114,3 +114,5 @@ npm run build scp -r ./dist/ root@120.46.60.40:/root/TJ_music
 ![image](https://github.com/Chtholly17/TJ_Music/assets/82920537/c63dc7ba-d2b2-48ac-99d7-50317d80c5f9)
 ![image](https://github.com/Chtholly17/TJ_Music/assets/82920537/fe5297cb-f8d7-4aaf-99c2-51dab863775f)
 6. 可以在`http://120.46.60.40:8080`查看部署好的网站
+
+JL
