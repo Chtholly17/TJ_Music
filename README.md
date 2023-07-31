@@ -116,3 +116,4 @@ npm run build scp -r ./dist/ root@120.46.60.40:/root/TJ_music
 6. 可以在`http://120.46.60.40:8080`查看部署好的网站
 
 JL
+LYY
